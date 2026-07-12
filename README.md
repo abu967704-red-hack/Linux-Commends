@@ -1,85 +1,41 @@
 # Linux Commands Practice
 
-This repository contains Linux commands that I practiced while learning Kali Linux and Ethical Hacking.
+এই Repository-টি Kali Linux শেখা এবং Ethical Hacking-এর জন্য আমার ব্যক্তিগত Linux Notes।
 
 ---
 
-# File and Directory Commands
+## Repository Structure
 
-## pwd
-
-বর্তমান Directory দেখায়।
-
-Syntax
-
-```bash
-pwd
-```
-
-Example
-
-```bash
-pwd
-```
-
-Output
-
-```text
-/home/kali/Linux-Commands
-```
+- README.md
+- File-Commands.md
+- Network-Commands.md
+- User-Commands.md
+- Permission-Commands.md
+- Process-Commands.md
+- Search-Commands.md
+- Package-Commands.md
+- Git-Commands.md
+- Bash-Scripting.md
 
 ---
 
-## ls
+## Topics
 
-ফাইল ও Folder দেখায়।
-
-Syntax
-
-```bash
-ls
-```
-
-Example
-
-```bash
-ls
-ls -la
-```
+- File & Directory Commands
+- Network Commands
+- User Management
+- File Permissions
+- Process Management
+- Search Commands
+- Package Management
+- Git Commands
+- Bash Scripting
 
 ---
 
-## cd
+## Author
 
-Directory পরিবর্তন করে।
+Abu Saleh
 
-Example
-
-```bash
-cd Desktop
-cd ..
-```
-
----
-
-## mkdir
-
-নতুন Folder তৈরি করে।
-
-Example
-
-```bash
-mkdir Project
-```
-
----
-
-## touch
-
-নতুন File তৈরি করে।
-
-Example
-
-```bash
-touch notes.txt
-```
+GitHub:
+https://github.com/abu967704-red-hack
